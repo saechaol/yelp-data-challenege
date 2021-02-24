@@ -1,2 +1,2 @@
-# yelp-data-challenege
+# yelp-data-challenge
 For my course on artificial intelligence, I train a TensorFlow neural network to predict business' star rating based on an aggregation of that business' review text.
